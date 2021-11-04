@@ -1,3 +1,3 @@
 # Databasesystem
 6400 project
-Created a database for shelter
+Created a database system for shelter
